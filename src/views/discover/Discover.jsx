@@ -51,7 +51,7 @@ export function Discover() {
 
   const fetchRoverData = ({ rover, sol, camera }) => {
     fetch(
-      `https://api.nasa.gov/mars-photos/api/v1/rovers/${rover}/photos?sol=${sol}&camera=${camera}&api_key=nTPtaVtB6nKcLyrB5DqtTJJCIen1JMbJnLwl8pMT&page=1`
+      `https://api.nasa.gov/mars-photos/api/v1/rovers/${rover}/photos?sol=${sol}&camera=${camera}&api_key=CcZbuDFwsaF3C7UtVUeAbtmMxg7m4SRiKE9BftyN&page=1`
     )
       .then((response) => response.json())
       .then(({ photos }) => setRoverData(photos));
