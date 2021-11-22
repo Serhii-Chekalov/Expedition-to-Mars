@@ -54,7 +54,7 @@ function App() {
           sx={{ pt: 2, pb: 6 }}
         >
           <Routes>
-            <Route path="/" element={<Discover />} />
+            <Route path="/Expedition-to-Mars" element={<Discover />} />
           </Routes>
         </Container>
         {/* Footer */}
