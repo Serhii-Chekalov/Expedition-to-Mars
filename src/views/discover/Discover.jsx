@@ -71,7 +71,7 @@ export function Discover() {
   useEffect(() => {
     const { rover, sol, camera } = formValues;
     fetchRoverData({ rover, sol, camera });
-  }, []);
+  });
 
   return (
     <div>

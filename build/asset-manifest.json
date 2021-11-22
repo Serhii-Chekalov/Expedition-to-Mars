@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Expedition-to-Mars/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Expedition-to-Mars/static/js/main.58233f6e.chunk.js",
+    "main.js.map": "/Expedition-to-Mars/static/js/main.58233f6e.chunk.js.map",
+    "runtime-main.js": "/Expedition-to-Mars/static/js/runtime-main.d3d19a92.js",
+    "runtime-main.js.map": "/Expedition-to-Mars/static/js/runtime-main.d3d19a92.js.map",
+    "static/js/2.46aca9b2.chunk.js": "/Expedition-to-Mars/static/js/2.46aca9b2.chunk.js",
+    "static/js/2.46aca9b2.chunk.js.map": "/Expedition-to-Mars/static/js/2.46aca9b2.chunk.js.map",
+    "static/js/3.090451a8.chunk.js": "/Expedition-to-Mars/static/js/3.090451a8.chunk.js",
+    "static/js/3.090451a8.chunk.js.map": "/Expedition-to-Mars/static/js/3.090451a8.chunk.js.map",
+    "index.html": "/Expedition-to-Mars/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Expedition-to-Mars/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.46aca9b2.chunk.js.LICENSE.txt": "/Expedition-to-Mars/static/js/2.46aca9b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3d19a92.js",
+    "static/js/2.46aca9b2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.58233f6e.chunk.js"
+  ]
+}
