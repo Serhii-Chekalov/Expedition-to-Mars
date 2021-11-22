@@ -2,7 +2,6 @@
   "name": "mars",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://serhii-chekalov.github.io/Expedition-to-Mars/",
   "dependencies": {
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
